@@ -1,0 +1,20 @@
+ul {
+    list-style:none;
+}
+
+
+.background {
+    background: url(https://64.media.tumblr.com/5abf0f197bf1e7d6226f8276022a47e8/tumblr_n4ezcw0wQO1rmvkpdo3_r1_500.gifv) no-repeat;
+    float: center;
+    border: 2px solid black;
+  }
+  
+  .transbox {
+   text-align: right;
+   padding-right: 10px;
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.8;
+  }
+  
